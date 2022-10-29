@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atc-bairesdev
+- 👋 Hi, my name is Alex, @atc-bairesdev
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Mongo, Express, React, Node
 - 💞️ I’m looking to collaborate on BairesDev Teams and Community
